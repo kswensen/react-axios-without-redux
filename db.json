@@ -17,6 +17,33 @@
       "email": "sarahcroft@gmail.com",
       "phone": "(325)-345-2352",
       "log": "This\nis\nanother\ntest\nlog"
+    },
+    {
+      "first": "Hello",
+      "last": "klj",
+      "email": "lkklj",
+      "phone": "jkjl",
+      "status": "New Customer",
+      "log": "",
+      "id": 3
+    },
+    {
+      "first": "What",
+      "last": "klj",
+      "email": "lkklj",
+      "phone": "jkjl",
+      "status": "New Customer",
+      "log": "",
+      "id": 4
+    },
+    {
+      "first": "lkjlkj",
+      "last": "klkj",
+      "email": "jjj",
+      "phone": "jjjj",
+      "status": "New Customer",
+      "log": "",
+      "id": 5
     }
   ]
 }
